@@ -1,5 +1,0 @@
-{{#user}
-Name: Mayur Nikam
-Skills: HTML, CSS, JS, React.js, Node.js
-Email: mayurn989@gmail.com
-{{/user}}
